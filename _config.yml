@@ -1,0 +1,12 @@
+title: Digital Love
+email: aelthalion@gmail.com
+description:
+  This is the Digital Love studio official site.
+baseurl: ""
+url: "http://digitallove.io"
+github_username:  gonzaloiv
+plugins:
+  - github-pages
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
