@@ -10,3 +10,4 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+google_analytics: UA-59843825-7
